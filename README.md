@@ -1,4 +1,4 @@
 # byte-vector-array-cpp
-```sh
+```console
 g++ -std=c++17 main.cpp
 ```
